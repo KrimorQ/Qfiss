@@ -2,9 +2,7 @@
   
 <h2>👨‍💻 System Administrator & IT-Konsulent Projects:</h2>
 
-- # [Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
-- # [Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+-  [Active Directory](https://github.com/Qfiss?tab=repositories)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
