@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 System Administrator Student & Hobby programmer:</h2>
 
-<h2> 💻[Active Directory](https://github.com/Qfiss?tab=repositories)</h2>
+<h2> 💻[Active Directory](https://github.com/KrimorQ?tab=repositories)</h2>
 
 
 - 🔭 I’m currently working on "Text based adventure"
